@@ -1,0 +1,105 @@
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\Club.exe.config
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\Club.exe
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\Club.pdb
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.csproj.GenerateResource.cache
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.exe
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.pdb
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.forms.frmClub.resources
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Web.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\Google.Protobuf.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\ZstdNet.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\System.Memory.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\System.Buffers.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Data.xml
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\toshiba\Desktop\Club\Club\bin\Debug\MySql.Web.xml
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.exe.config
+C:\Users\toshiba\Desktop\Club\Club\obj\Debug\Club.csproj.CopyComplete
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.exe.config
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.exe
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.pdb
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.EntityFramework.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Web.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Google.Protobuf.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\ZstdNet.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\BouncyCastle.Crypto.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Ubiety.Dns.Core.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\System.Memory.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\System.Buffers.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Compression.LZ4.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Hash.xxHash.dll
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.xml
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.EntityFramework.xml
+F:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Web.xml
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.exe.config
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmClub.resources
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.Properties.Resources.resources
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.GenerateResource.cache
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.CopyComplete
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.exe
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.pdb
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmMember.resources
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmStroke.resources
+F:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.Main.resources
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.exe.config
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.exe
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Club.pdb
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.EntityFramework.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Web.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Google.Protobuf.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\ZstdNet.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\BouncyCastle.Crypto.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\Ubiety.Dns.Core.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\System.Memory.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\System.Buffers.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Compression.LZ4.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\K4os.Hash.xxHash.dll
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.xml
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Data.EntityFramework.xml
+D:\BSCS 5th smster\vp lab\Club\Club\bin\Debug\MySql.Web.xml
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.exe.config
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmClub.resources
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmMember.resources
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.frmStroke.resources
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.forms.Main.resources
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.Properties.Resources.resources
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.GenerateResource.cache
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.csproj.CopyComplete
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.exe
+D:\BSCS 5th smster\vp lab\Club\Club\obj\Debug\Club.pdb
+C:\Users\Zeeshan Ahmad\Desktop\C# files\clubs\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# files\clubs\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# files\clubs\Club\obj\Debug\Club.exe.config
+C:\Users\Zeeshan Ahmad\Desktop\C# files\clubs\Club\obj\Debug\Club.exe
+C:\Users\Zeeshan Ahmad\Desktop\C# files\clubs\Club\obj\Debug\Club.pdb
+C:\Users\Zeeshan Ahmad\Desktop\C# files\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# files\Club\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# files\Club\Club\obj\Debug\Club.exe.config
+C:\Users\Zeeshan Ahmad\Desktop\C# files\Club\Club\obj\Debug\Club.exe
+C:\Users\Zeeshan Ahmad\Desktop\C# files\Club\Club\obj\Debug\Club.pdb
+C:\Users\Zeeshan Ahmad\Desktop\C# Projects\C# files\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# Projects\C# files\Club\Club\obj\Debug\Club.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeeshan Ahmad\Desktop\C# Projects\C# files\Club\Club\obj\Debug\Club.exe.config
+C:\Users\Zeeshan Ahmad\Desktop\C# Projects\C# files\Club\Club\obj\Debug\Club.exe
+C:\Users\Zeeshan Ahmad\Desktop\C# Projects\C# files\Club\Club\obj\Debug\Club.pdb
